@@ -1,0 +1,14 @@
+c:\Users\RENZENF\Desktop\contact-app\bin\Debug\netcoreapp2.1\contact-app.deps.json
+c:\Users\RENZENF\Desktop\contact-app\bin\Debug\netcoreapp2.1\contact-app.runtimeconfig.json
+c:\Users\RENZENF\Desktop\contact-app\bin\Debug\netcoreapp2.1\contact-app.runtimeconfig.dev.json
+c:\Users\RENZENF\Desktop\contact-app\bin\Debug\netcoreapp2.1\contact-app.dll
+c:\Users\RENZENF\Desktop\contact-app\bin\Debug\netcoreapp2.1\contact-app.pdb
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.csprojAssemblyReference.cache
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.csproj.CoreCompileInputs.cache
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.RazorAssemblyInfo.cache
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.RazorAssemblyInfo.cs
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.AssemblyInfoInputs.cache
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.AssemblyInfo.cs
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.RazorTargetAssemblyInfo.cache
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.dll
+c:\Users\RENZENF\Desktop\contact-app\obj\Debug\netcoreapp2.1\contact-app.pdb

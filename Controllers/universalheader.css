@@ -1,0 +1,55 @@
+ #uhw-revamp header .is-sticky .tab_container div.subnav .inside {top: 66px !important;}
+    #uhw-revamp header .tab_container div.subnav .inside {top: 91px !important;}
+    #uhw-revamp #header .is-sticky #uhw-revamp header .tab_container div.subnav .inside {
+    top: 66px !important;border:1px solid #000;
+    }
+    #uhw-revamp #universal_header ul { margin: 0 auto; width: 470px; padding: 0; }
+    #uhw-revamp #universal_header {
+    height: 30px;
+    background-color: #222222;
+    }
+    #uhw-revamp #universal_header li {
+    float: left;
+    list-style: none !important;
+    }
+    #uhw-revamp #universal_header .active_white {
+    background-color: #fff;
+    }
+    #uhw-revamp #universal_header {
+    overflow-y: hidden;
+    display: block;
+    width: 100%;
+    position: relative;
+    z-index: 4;
+    }
+    #uhw-revamp #universal_header #uh_content {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    overflow-x: auto;
+    }
+    #uhw-revamp #universal_header #uh_content a {
+    display: block;
+    padding: 3px 16px;
+    text-align: center;
+    }
+    #uhw-revamp #universal_header #uh_content a:hover {
+    background: #3a3737;
+    }
+    #uhw-revamp #universal_header #universal_header {
+    width: 100%;
+    }
+    #uhw-revamp #universal_header #uh_content .active_white:hover {
+    background: #fff;
+    }
+    #uhw-revamp #universal_header img {
+    /*width: 75%;*/
+    text-align: center;
+    margin: 0 auto 4px;
+    }
+    #uhw-revamp #universal_header .tnt_logo a {
+    padding: 2px 18px !important;
+    }
+    @media screen and (max-width: 600px) {
+    #uhw-revamp #universal_header ul { margin: 0; }
+    }

@@ -1,0 +1,36 @@
+               user.username = item.username;
+                user.password = item.password;
+                user.isActive = item.isActive;
+                user.firtsname = item.firstname;
+                user.lastname = item.lastname;
+                user.email = item.email;
+                user.gender = item.gender;
+                user.birth = item.birth;
+                user.phone = item.phone;
+                user.website = item.website;
+                user.lat = item.lat;
+                user.lng = item.lng;
+                user.street = item.street;
+                user.suite = item.suite;
+                user.city = item.city;
+                user.zipcode = item.zipcode;
+
+////
+
+
+ username = item.username,
+                password = item.password,
+                isActive = item.isActive,
+                firtsname = item.firstname,
+                lastname = item.lastname,
+                email = item.email,
+                gender = item.gender,
+                birth = item.birth,
+                phone = item.phone,
+                website = item.website,
+                lat = item.lat,
+                lng = item.lng,
+                street = item.street,
+                suite = item.suite,
+                city = item.city,
+                zipcode = item.zipcode
