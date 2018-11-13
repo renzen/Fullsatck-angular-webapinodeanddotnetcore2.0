@@ -1,2 +1,2 @@
-# Fullsatck-angular-webapinodeanddotnetcore2.0
+# Fullstack-angular-WebAPINodeAndDotnetcore2.0
 Practice only 
